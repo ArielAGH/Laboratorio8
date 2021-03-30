@@ -42,7 +42,11 @@ Una aplicación más común para este teorema es su utilización en amplificador
 
 ![](https://github.com/ArielAGH/Laboratorio8/blob/main/Img/VAT220.jpeg)
 
+Los resultados medidos se encuentran en las imágenes de la carpeta Img.
+
 * Calcule las potencias consumidas por RL, para cada valor dado y anote los resultados en la tabla 5.1.
+
+Los cálculos respectivos se encuentran en la carpeta llamada Cálculos.
 
 ## 5. TABLAS DE MEDICIÓN Y CÁLCULOS
 
