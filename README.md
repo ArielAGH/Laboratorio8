@@ -39,6 +39,9 @@ Una aplicación más común para este teorema es su utilización en amplificador
 ![](https://github.com/ArielAGH/Laboratorio8/blob/main/Img/Figura.png)
 
 * Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla. Anote los resultados medidos.
+
+![](https://github.com/ArielAGH/Laboratorio8/blob/main/Img/VAT220.jpeg)
+
 * Calcule las potencias consumidas por RL, para cada valor dado y anote los resultados en la tabla 5.1.
 
 ## 5. TABLAS DE MEDICIÓN Y CÁLCULOS
